@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCAppWithFormsAuth", "MVCAppWithFormsAuth\MVCAppWithFormsAuth.csproj", "{8A04A36B-B69E-4FF7-BD0C-21DD9EEEDCDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A04A36B-B69E-4FF7-BD0C-21DD9EEEDCDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A04A36B-B69E-4FF7-BD0C-21DD9EEEDCDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A04A36B-B69E-4FF7-BD0C-21DD9EEEDCDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A04A36B-B69E-4FF7-BD0C-21DD9EEEDCDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7400CA9-124E-47F1-B60C-B5C32AA9461E}
+	EndGlobalSection
+EndGlobal
